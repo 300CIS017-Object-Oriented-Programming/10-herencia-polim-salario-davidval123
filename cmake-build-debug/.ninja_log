@@ -1,0 +1,20 @@
+# ninja log v6
+5	1412	7682607242969250	CMakeFiles/EmpleadosApp.dir/src/Empleado.cpp.obj	c9ba7b48f22d5e65
+37	1426	7682607243293225	CMakeFiles/EmpleadosApp.dir/src/Lider.cpp.obj	c530dc7595fc0299
+23	1429	7682607243158224	CMakeFiles/EmpleadosApp.dir/src/Junior.cpp.obj	a364ba9fbb54b30c
+69	1531	7682607243619246	CMakeFiles/EmpleadosApp.dir/src/Tester.cpp.obj	cc362fac2465558f
+52	1538	7682607243438343	CMakeFiles/EmpleadosApp.dir/src/Senior.cpp.obj	aecfa21c59072e99
+87	1580	7682607243799496	CMakeFiles/EmpleadosApp.dir/src/main.cpp.obj	577ed6287a05e874
+10	1416	7682608043670508	CMakeFiles/EmpleadosApp.dir/src/Empleado.cpp.obj	c9ba7b48f22d5e65
+97	1526	7682608044546805	CMakeFiles/EmpleadosApp.dir/src/main.cpp.obj	577ed6287a05e874
+64	1458	7682609181697579	CMakeFiles/EmpleadosApp.dir/src/Lider.cpp.obj	c530dc7595fc0299
+25	1467	7682609181309054	CMakeFiles/EmpleadosApp.dir/src/Empleado.cpp.obj	c9ba7b48f22d5e65
+51	1468	7682609181563293	CMakeFiles/EmpleadosApp.dir/src/Junior.cpp.obj	a364ba9fbb54b30c
+95	1597	7682609182008782	CMakeFiles/EmpleadosApp.dir/src/Tester.cpp.obj	cc362fac2465558f
+79	1599	7682609181844514	CMakeFiles/EmpleadosApp.dir/src/Senior.cpp.obj	aecfa21c59072e99
+115	1608	7682609182195600	CMakeFiles/EmpleadosApp.dir/src/main.cpp.obj	577ed6287a05e874
+1608	2247	7682609197137032	EmpleadosApp.exe	158a493e78f9bc80
+11	729	7682610200024431	CMakeFiles/EmpleadosApp.dir/src/main.cpp.obj	577ed6287a05e874
+730	1060	7682610207219533	EmpleadosApp.exe	158a493e78f9bc80
+53	698	7682610572348004	CMakeFiles/EmpleadosApp.dir/src/main.cpp.obj	577ed6287a05e874
+699	1123	7682610578798676	EmpleadosApp.exe	158a493e78f9bc80
